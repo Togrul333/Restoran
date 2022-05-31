@@ -1,0 +1,1 @@
+@extends('Front.layouts.master')

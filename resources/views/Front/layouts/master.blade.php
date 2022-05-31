@@ -1,0 +1,7 @@
+@include('Front.layouts.header')
+@include('Front.layouts.about')
+@include('Front.layouts.team')
+@include('Front.layouts.menugoods')
+@include('Front.layouts.Testimonials')
+@include('Front.layouts.contact')
+@include('Front.layouts.footer')
